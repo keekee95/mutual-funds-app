@@ -1,11 +1,14 @@
-<<<<<<< HEAD
-
 # Mutual Funds App
 
-This app uses [**MFAPI**](https://www.mfapi.in/) to get and display data related to mutual fund products. 
+This is a React Application that uses [**MFAPI**](https://www.mfapi.in/) to get and display data related to mutual fund products. 
 
-#### Installation
+### Installation
 Run inside the project folder
->npm install
->npm run build
->npm preview
+```
+npm install
+npm run build
+npm run preview
+```
+
+#### Useful links
+[Install npm and Node.js](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
